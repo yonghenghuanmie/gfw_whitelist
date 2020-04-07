@@ -245,6 +245,7 @@ var white_domains = {
 "mms-graph.cdn.bcebos":1,
 "baidupcs":1,
 "cppreference":1,
+"mongodb":1,
 // "fonts.gstatic":1,
 // "fonts.googleapis":1,
 // "globalsign":1,
