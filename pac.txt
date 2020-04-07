@@ -8345,6 +8345,7 @@ var white_domains = {
 "takungpao.com":1,
 "xsren":1
 },"im":{
+"chengzi":1,
 "cli":1,
 "iapps":1,
 "iyy":1,
